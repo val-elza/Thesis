@@ -1,5 +1,4 @@
-# Thesis
-Genetic Algorithm-Based Sentiment Analysis for Cyberbullying Detection
+# Thesis - Genetic Algorithm-Based Sentiment Analysis for Cyberbullying Detection
 •	Download Cyberbullying dataset from GitHub link.
 •	Download “Thesis_Project.zip”, unzip it and create a folder called Sem-2 and create a subfolder called Thesis and save the dataset as “Twitter_Data.csv”.
 •	Unzip the downloaded dataset into the newly created Thesis folder. 
